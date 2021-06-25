@@ -8,5 +8,7 @@ La aplicación implementa lo siguiente:
 - Creación de los primeros componentes de la aplicación
 - Separar el Login del template administrativo, ya que tienen estructuras diferentes
 - Animaciones por CSS
+- Aplicación modularizada
+- Rutas hijas que cargar mediante lazy load
 
 Recuerden instalar los modulos de node con `npm install`.
