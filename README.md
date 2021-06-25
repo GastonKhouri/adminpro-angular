@@ -9,6 +9,6 @@ La aplicación implementa lo siguiente:
 - Separar el Login del template administrativo, ya que tienen estructuras diferentes
 - Animaciones por CSS
 - Aplicación modularizada
-- Rutas hijas que cargar mediante lazy load
+- Rutas hijas que cargan mediante Lazy Load
 
 Recuerden instalar los modulos de node con `npm install`.
