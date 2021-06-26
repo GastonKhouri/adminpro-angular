@@ -10,5 +10,7 @@ La aplicación implementa lo siguiente:
 - Animaciones por CSS
 - Aplicación modularizada
 - Rutas hijas que cargan mediante Lazy Load
+- Componente de gráfico de donas
+- Componente de barra de progreso
 
 Recuerden instalar los modulos de node con `npm install`.
