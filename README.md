@@ -12,5 +12,10 @@ La aplicación implementa lo siguiente:
 - Rutas hijas que cargan mediante Lazy Load
 - Componente de gráfico de donas
 - Componente de barra de progreso
+- Módulo para agrupar todos los servicios
+- Uso del LocalStorage para guardar configuraciones
+- Cambiar CSS de forma dinámica
+- Componente para los ajustes del tema de la aplicación
+- Servicio del Sidebar, el cual se usa para crear un menú dinámico en base a las respuestas de nuestro backend server
 
 Recuerden instalar los modulos de node con `npm install`.
