@@ -17,5 +17,6 @@ La aplicación implementa lo siguiente:
 - Cambiar CSS de forma dinámica
 - Componente para los ajustes del tema de la aplicación
 - Servicio del Sidebar, el cual se usa para crear un menú dinámico en base a las respuestas de nuestro backend server
+- Componente de BreadCrumbs muestra ruta correctamente
 
 Recuerden instalar los modulos de node con `npm install`.
